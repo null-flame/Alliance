@@ -10,7 +10,24 @@
       "posts": []
     },
     "ghost": {
-      "posts": []
+      "posts": [
+        {
+          "id": "p_1",
+          "slug": "سایت-رسمی-گوست-برای-متحدین-گوست-ساخته-شد",
+          "title": "سایت رسمی گوست برای متحدین گوست ساخته شد!",
+          "excerpt": "",
+          "content": "سایت متحدان گوست ساخته شد!",
+          "cover": "https://cdn.imgurl.ir/uploads/b120819_1789221806450.png",
+          "tags": [
+            "site"
+          ],
+          "author": "no.python",
+          "date": "2026-11-05T00:33:00.000Z",
+          "featured": true,
+          "created_at": 1793882049.9385676,
+          "updated_at": 1793882049.9385679
+        }
+      ]
     }
   }
 }
