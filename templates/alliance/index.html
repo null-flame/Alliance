@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="dark light">
+  <title>Alliance</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/alliance/style.css">
+</head>
+<body>
+  <nav>
+    <div class="nav-inner">
+      <a class="nav-logo" href="/">
+        <span class="logo-mark">◈</span>
+        <span id="site-name">Alliance</span>
+      </a>
+      <div class="nav-spacer"></div>
+      <div class="nav-links">
+        <a href="/" id="nav-home">Home</a>
+        <a href="/admin" class="nav-admin">Admin</a>
+      </div>
+      <button class="icon-btn" id="themeBtn" aria-label="Toggle theme">◐</button>
+    </div>
+  </nav>
+
+  <main id="app" class="container"></main>
+
+  <footer>
+    <div><span class="logo-mark">◈</span> <span id="footer-name">Alliance</span></div>
+    <div class="sub">United. Silent. Precise.</div>
+  </footer>
+
+  <div id="toast" class="toast"></div>
+  <script src="/static/alliance/app.js"></script>
+</body>
+</html>

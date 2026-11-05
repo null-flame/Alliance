@@ -1,0 +1,13 @@
+{
+  "site": {
+    "name": "Alliance",
+    "tagline": "United. Silent. Precise.",
+    "description": "A coalition of allied guards and groups, moving as one.",
+    "lang": "en"
+  },
+  "sections": {
+    "wagner": {
+      "posts": []
+    }
+  }
+}
